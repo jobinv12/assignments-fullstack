@@ -26,6 +26,7 @@ import {
 } from "./ui/alert-dialog";
 
 export default function QuizPage() {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [questions, setQuestions] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
   const searchParams = useSearchParams();
