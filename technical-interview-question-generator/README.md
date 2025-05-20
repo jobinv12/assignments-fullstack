@@ -20,6 +20,9 @@ make sure latest version nodejs is installed. clone the code. Go inside the dire
 to run or start the application
 <code> npm dev run
 
+add you own gemini api key in .env.local file with name
+<code> GOOGLE_GENERATIVE_AI_API_KEY
+
 ## A working demo with sample outputs
 
 [technicalinterviewgenerator](technicalinterviewgenerator.vercel.com)
