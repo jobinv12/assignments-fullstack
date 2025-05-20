@@ -23,3 +23,9 @@ to run or start the application
 ## A working demo with sample outputs
 
 [technicalinterviewgenerator](technicalinterviewgenerator.vercel.com)
+
+## Sample output
+
+![home page](https://github.com/jobinv12/assignments-fullstack/blob/jobin-technical-interview-question-generator/technical-interview-question-generator/public/home.png)
+
+![testpage](https://github.com/jobinv12/assignments-fullstack/blob/jobin-technical-interview-question-generator/technical-interview-question-generator/public/mcq.png)
