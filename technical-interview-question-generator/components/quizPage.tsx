@@ -27,7 +27,7 @@ import {
 
 export default function QuizPage() {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const [questions, setQuestions] = useState<any[]>([]);
+  const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
   const searchParams = useSearchParams();
   const router = useRouter();
